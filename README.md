@@ -1,7 +1,7 @@
 x<h1 align="center">Hi 👋, I'm Dominik</h1>
 <h3 align="center">DevOps Engineer</h3>
 
-- 🔭 I’m currently working on **JAM (Just A Microservice)**
+- 🔭 I’m currently working on **Word2Vec (Skip-Gram Model)**
 
 - 📄 Know about my experiences [https://dev-dominik.de](https://dev-dominik.de)
 
