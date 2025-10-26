@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
 <h3 align="center">DevOps Engineer</h3>
 
-- 🔭 Currently working on **JAM (Just A Microservice)**
+- 🔭 Currently working on **JANA (Just Another Notes App)**
 
 - 💡 Currently learning ML fundamentals: models, LLMs, and MLOps
 
