@@ -11,7 +11,7 @@
   <a href="https://youtube.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
-  <a href="https://medium.com/@dominikrottmann" target="_blank">
+  <a href="https://medium.com/@mr.dodoro" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=1f76d1&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo" />
   </a>
 </div>
